@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ahan;Creative+Frontend+Developer;Passionate+about+UI%2FUX+Design;Turning+Ideas+into+Interactive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Ashan;Creative+Frontend+Developer;Passionate+about+UI%2FUX+Design;Turning+Ideas+into+Interactive+Experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhanNuwantha&label=Profile%20views&color=00BFFF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AshanNuwantha&label=Profile%20views&color=00BFFF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -70,10 +70,10 @@ A dynamic dashboard built with **Next.js** and **Chart.js**, featuring dark mode
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ahan-nuwantha/](https://www.linkedin.com/in/ashan-nuwantha-45724b381/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ashan-nuwantha-45724b381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://github.com/AhanNuwantha](https://github.com/ashanrupasingha)" target="_blank">
+  <a href="https://github.com/ashanrupasingha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:ahanfrontend@gmail.com" target="_blank">
